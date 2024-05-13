@@ -233,20 +233,6 @@ calculator.setStrategy(&subtractStrategy);
 cout << "Resultado da subtração: " << calculator.executeStrategy(5.5, 3.3) << endl;
 ```
 
-## Benefícios
-
-- Permite que você defina uma família de algoritmos e escolha o algoritmo a ser usado em tempo de execução.
-- Promove a separação de preocupações ao encapsular cada algoritmo em uma classe separada.
-- Facilita a adição de novos algoritmos sem modificar o código existente.
-
-## Quando Usar
-
-Use o Padrão de Projeto Strategy quando:
-
-- Você tem vários algoritmos para realizar uma tarefa e deseja alternar entre eles dinamicamente.
-- Você precisa isolar os detalhes de implementação de um algoritmo do código do cliente.
-- Você tem uma classe com um comportamento que pode ser estendido ou alterado por várias subclasses.
-
 ## Diagrama UML
 
 ![Estrutura do padrão de projeto Strategy](https://refactoring.guru/images/patterns/diagrams/strategy/solution.png)
