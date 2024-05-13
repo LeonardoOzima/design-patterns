@@ -3,6 +3,7 @@
 # Adapter
 
 > [Adapter/Adapter.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Adapter/Adapter.cpp)
+
 > Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Adapter em C++. A calculadora pode realizar operações básicas como soma, subtração, multiplicação e divisão.
 
 ## Propósito
