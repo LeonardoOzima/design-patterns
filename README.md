@@ -80,7 +80,9 @@ newCalculator.calculate();
 
 ## Diagrama UML
 
-> **Material usado:**
+![Estrutura do padrão de projeto Singleton](https://refactoring.guru/images/patterns/diagrams/adapter/structure-object-adapter-indexed.png)
+
+> **Referência:** https://refactoring.guru/pt-br/design-patterns/adapter
 
 # Singleton
 
@@ -147,7 +149,9 @@ double resultadoDivisao = s->divisao(5, 3);
 
 ## Diagrama UML
 
-> **Material usado:**
+![Estrutura do padrão de projeto Singleton](https://refactoring.guru/images/patterns/diagrams/singleton/structure-pt-br-indexed.png)
+
+> **Referência:** https://refactoring.guru/pt-br/design-patterns/singleton
 
 # Strategy
 
@@ -245,4 +249,6 @@ Use o Padrão de Projeto Strategy quando:
 
 ## Diagrama UML
 
-> **Material usado:**
+![Estrutura do padrão de projeto Strategy](https://refactoring.guru/images/patterns/diagrams/strategy/solution.png)
+
+> **Referência:** https://refactoring.guru/pt-br/design-patterns/strategy
