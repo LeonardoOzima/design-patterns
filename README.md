@@ -4,8 +4,6 @@
 
 > [Adapter/Adapter.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Adapter/Adapter.cpp)
 
-> Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Adapter em C++. A calculadora pode realizar operações básicas como soma, subtração, multiplicação e divisão.
-
 ## Propósito
 
 O propósito deste código é demonstrar o uso do padrão de design Adapter. O Adapter é um padrão de design estrutural que permite que objetos com interfaces incompatíveis trabalhem juntos. Ele envolve um único objeto, o adaptador, que faz a interface entre dois outros objetos.
@@ -88,8 +86,6 @@ newCalculator.calculate();
 
 > [Singleton/Singleton.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Singleton/Singleton.cpp)
 
-Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Singleton em C++. A calculadora pode realizar operações básicas como soma, subtração, multiplicação e divisão.
-
 ## Propósito
 
 O propósito deste código é demonstrar o uso do padrão de design Singleton. O Singleton é um padrão de design criacional que garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global a essa instância.
@@ -156,8 +152,6 @@ double resultadoDivisao = s->divisao(5, 3);
 # Strategy
 
 > [Strategy/Strategy.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Strategy/Strategy.cpp)
-
-Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Strategy em C++. A calculadora pode realizar operações básicas como soma e subtração.
 
 ## Propósito
 
