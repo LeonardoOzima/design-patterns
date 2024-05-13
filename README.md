@@ -84,6 +84,8 @@ newCalculator.calculate();
 
 # Singleton
 
+> [Singleton/Singleton.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Singleton/Singleton.cpp)
+
 Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Singleton em C++. A calculadora pode realizar operações básicas como soma, subtração, multiplicação e divisão.
 
 ## Propósito
@@ -148,6 +150,8 @@ double resultadoDivisao = s->divisao(5, 3);
 > **Material usado:**
 
 # Strategy
+
+> [Strategy/Strategy.cpp](https://github.com/LeonardoOzima/design-patterns/blob/main/Strategy/Strategy.cpp)
 
 Este repositório contém uma implementação simples de uma calculadora que usa o padrão de design Strategy em C++. A calculadora pode realizar operações básicas como soma e subtração.
 
